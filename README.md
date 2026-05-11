@@ -10,8 +10,8 @@ The goal of this project is to perform comprehensive sales analysis and short-te
 
 PowerBI Dashboard containing Sales Data
 <h1 align="center">
-<img width="1318" height="732" alt="home" src="https://github.com/user-attachments/assets/1bf1b3fe-572a-4c3c-b6cd-1a1eeb39b802" />
-<img width="1326" height="738" alt="pridict" src="https://github.com/user-attachments/assets/3fb561a3-8c18-4517-a4fb-2ab1d1fd3139" />
+<img width="1318" height="732" alt="home" src="https://github.com/pratiik1516/Superstore-Sales-Forecasting-Dashboard/blob/main/home.png" />
+<img width="1326" height="738" alt="pridict" src="https://github.com/pratiik1516/Superstore-Sales-Forecasting-Dashboard/blob/main/predict.png" />
 </h1>
 
 ## 🛠️ Tools & Technologies Used
